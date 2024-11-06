@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.Runtime.CompilerServices;
-using Syste;
+using System;
 class X{
     int studentID;
 }
